@@ -46,3 +46,13 @@ body{
     cursor: pointer;
     border-radius: 5px;
 }
+@media only screen and (max-width: 1024px) {
+    .box{
+        top: 230px;
+    }
+}
+@media only screen and (min-width: 600px) {
+    .box{
+        top: 230px;
+    }
+}
